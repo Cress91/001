@@ -1,17 +1,12 @@
-﻿// Напишите программу, которая выводит третью цифру 
-// заданного числа или сообщает, что третьей цифры нет
-// 645 -> 5
-// 78 -> третьей цифры нет
-// 32679 -> 6
+﻿// Напишите программу, которая принимает на вход 
+// трехзначное число и показывает вторую цифру этого числа
+// 456 -> 5
+// 782 -> 8
+// 918 -> 1
 
 System.Console.WriteLine("Введите число");
-int num = int.Parse(Console.ReadLine());
+int number1 = Convert.ToInt32(Console.ReadLine());
 
-if (num < 100)
-{
-    System.Console.WriteLine("Третьей цифры нет");
-}
+int number2 = (number1 / 10) % 10;
 
-int num2 = (num / 100) % 10;
-
-System.Console.WriteLine(num2);
+System.Console.WriteLine(number2);
