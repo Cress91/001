@@ -1,16 +1,25 @@
-﻿
+﻿// Задайте массив, заполненный случайными положительными 3х-значными числами.
+// Напишите программу, которая покажет кол-во четных чисел в массиве.
+// 
+System.Console.WriteLine("Задайте массив");
+int size = Convert.ToInt32(Console.ReadLine());
 
+int sum = 0;
+int[] array = GetArray(size);
 
-int number = int.Parse(Console.ReadLine());
-
-int Funk(int number)
+int[] GetArray(int size)
 {
-    int sum = 0;
-    while(number > 0)
+    int[] array = new int[size];
+    for(int i = 0; i < size; i++)
     {
-        sum = sum = number %10;
-        number = number / 10;
+        array[i] = new Random().Next(100, 1000);
+        int element = array[i];
+        if (element % 2 == 0)
+        {
+            sum += 1;
+        }
     }
-    return sum;
+    return array;
 }
-Console.WriteLine(Funk(number));
+System.Console.WriteLine(String.Join(",", array));
+System.Console.WriteLine($"Sum of even numbers:" {sum});
