@@ -1,0 +1,15 @@
+D:\GeekBrains\001\Задача 58\bin\Debug\net6.0\Задача 58.exe
+D:\GeekBrains\001\Задача 58\bin\Debug\net6.0\Задача 58.deps.json
+D:\GeekBrains\001\Задача 58\bin\Debug\net6.0\Задача 58.runtimeconfig.json
+D:\GeekBrains\001\Задача 58\bin\Debug\net6.0\Задача 58.dll
+D:\GeekBrains\001\Задача 58\bin\Debug\net6.0\Задача 58.pdb
+D:\GeekBrains\001\Задача 58\obj\Debug\net6.0\Задача 58.csproj.AssemblyReference.cache
+D:\GeekBrains\001\Задача 58\obj\Debug\net6.0\Задача 58.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\001\Задача 58\obj\Debug\net6.0\Задача 58.AssemblyInfoInputs.cache
+D:\GeekBrains\001\Задача 58\obj\Debug\net6.0\Задача 58.AssemblyInfo.cs
+D:\GeekBrains\001\Задача 58\obj\Debug\net6.0\Задача 58.csproj.CoreCompileInputs.cache
+D:\GeekBrains\001\Задача 58\obj\Debug\net6.0\Задача 58.dll
+D:\GeekBrains\001\Задача 58\obj\Debug\net6.0\refint\Задача 58.dll
+D:\GeekBrains\001\Задача 58\obj\Debug\net6.0\Задача 58.pdb
+D:\GeekBrains\001\Задача 58\obj\Debug\net6.0\Задача 58.genruntimeconfig.cache
+D:\GeekBrains\001\Задача 58\obj\Debug\net6.0\ref\Задача 58.dll
